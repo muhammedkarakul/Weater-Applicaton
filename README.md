@@ -1,9 +1,15 @@
 # Clima
-Learn to make iOS Apps | Project Stub | (Swift 3.0/Xcode 8) - Clima App
+Bu uygulama Udemy platformunda iOS uygulama geliştirme eğitimleri veren Angela Yu'nun eğitiminden faydalanarak yapılmıştır.
 
-Download the starter project files as .zip and extract to your desktop. 
+Uygulamayı denemek için zip olarak indirin ve klasörden çıkarın. Pod dosyaları gitignore ile projeye dahil edilmemiştir. Pod dosyalarını projeye dahil etmek için öncelikle sisteminizde Cocoapods kurulu olmalıdır. Cocoapods sistemde kurulu ise terminal ekranına;
 
-## Finished App
+```
+pod install 
+```
+
+yazarak projede kullanılan third-party frameworkleri projeye dahil etmiş olursunuz. Eğer bu işlemi gerçekleştirmezseniz uygulama çalışmaz!
+
+## Bitmiş Uygulama
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/Clima.gif)
 
 ## Fix for Cocoapods v1.0.1 and below
